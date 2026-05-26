@@ -1,0 +1,1 @@
+# simulador-sessao-recarga-goodwe
